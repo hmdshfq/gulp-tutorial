@@ -7,3 +7,7 @@ main {
     margin: auto;
     padding-top: 150px;
 }
+
+body {
+    background-color: beige;
+}
