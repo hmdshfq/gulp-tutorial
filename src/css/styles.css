@@ -1,0 +1,9 @@
+.highlight {
+    background-color: yellow;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    padding-top: 150px;
+}
